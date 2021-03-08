@@ -11,6 +11,7 @@ My main aim is to finish The Rolling Scopes School courses
 + HTML  
 + CSS  
 + JavaScript  
+
 **Code Example:**  
 ```
 let n = +prompt("Enter your number");
@@ -25,6 +26,7 @@ for(let i = 1; i <= n; i++){
     console.log(`Факториал числа ${i} составляет ${faktorial(i)}`);
 }
 ```  
+
 **Education** 
 Faculty of History, Vitebsk State University  
 *2007-2012*  
