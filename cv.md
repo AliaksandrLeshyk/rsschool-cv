@@ -27,7 +27,7 @@ for(let i = 1; i <= n; i++){
 }
 ```  
 
-**Education** 
+**Education:**  
 Faculty of History, Vitebsk State University  
 *2007-2012*  
 **CEFR English Level:**  
